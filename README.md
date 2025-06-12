@@ -1,4 +1,4 @@
-## Oiii eu sou a Lucas  Araujo, Desenvolvedor full Front Back End e analista de dados
+## Oiii eu sou a Lucas  Araujo, Desenvolvedor Front Back End e analista de dados
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
