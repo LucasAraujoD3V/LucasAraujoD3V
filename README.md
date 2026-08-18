@@ -86,8 +86,8 @@ $ cat profile.json
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" width="45" alt="Docker"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="45" width="45" alt="Nginx"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" width="45" alt="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" width="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="45" width="45" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="45" width="45" alt="Git"/>
+<img src="https://cdn.simpleicons.org/github/00FF41" height="45" width="45" alt="GitHub"/>
 
 </div>
 
@@ -97,15 +97,15 @@ $ cat profile.json
 
 <div align="center">
 
-![Firebird SQL](https://img.shields.io/badge/Firebird_SQL-00ff41?style=flat-square)
-![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-00ff41?style=flat-square)
-![Magento](https://img.shields.io/badge/Magento-00ff41?style=flat-square)
-![Bling ERP](https://img.shields.io/badge/Bling_ERP-00ff41?style=flat-square)
-![ASAAS](https://img.shields.io/badge/ASAAS-00ff41?style=flat-square)
-![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-0d1117?style=flat-square&logo=mercadopago&logoColor=00ff41)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=00ff41)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ff41)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=00ff41)
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-0d1117?style=flat-square&logo=mercadopago&logoColor=00ff41&labelColor=0d1117)
+![Magento](https://img.shields.io/badge/Magento-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![Bling ERP](https://img.shields.io/badge/Bling_ERP-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![ASAAS](https://img.shields.io/badge/ASAAS-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![Firebird SQL](https://img.shields.io/badge/Firebird_SQL-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=00ff41&labelColor=0d1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ff41&labelColor=0d1117)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=00ff41&labelColor=0d1117)
 
 </div>
 
